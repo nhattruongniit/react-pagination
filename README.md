@@ -16,6 +16,8 @@ Please install json-server first: yarn global add json-server
 
 ## Pagination
 
+<image src="./screen.png" />
+
 binding: `{offset + 1} - {offset + limit} of {totalItems}`
 
 - page: currentPage. Start from number 1.
